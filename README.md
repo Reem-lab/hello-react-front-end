@@ -5,7 +5,7 @@
 
 # Hello React
 
-> A simple App with react.js to print Random of greeting so whatever you refresg you can see Greetings for you.!
+> A simple App with react.js to print Random of greeting so whatever you refresg you can see Greetings for you.!👋🏻👋🏻
 
 
 # Getting Started with Create React App
